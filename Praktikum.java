@@ -1,2 +1,1 @@
-public static void main{}
-git commit -m "мой третий комммит"
+public static void main()
